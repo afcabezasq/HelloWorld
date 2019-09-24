@@ -1,1 +1,2 @@
+travis encrypt SONNAR_TOKEN
 travis encrypt 533235cbea2471cceb469d576ff987193f1478f8
